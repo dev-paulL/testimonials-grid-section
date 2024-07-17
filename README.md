@@ -10,7 +10,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-y0zbkVEETi](https://www.frontendmentor.io/solutions/testimonials-grid-section-y0zbkVEETi)
 - Live Site URL: [Add live site URL here](https://dev-paull.github.io/testimonials-grid-section)
 
 ## My process
