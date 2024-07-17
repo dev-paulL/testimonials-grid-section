@@ -53,6 +53,8 @@ article {
   border-radius: 0.7rem;
   box-shadow: 0.5rem 0.5rem 1.3rem -0.5rem hsl(0deg 0% 81.25%);
 }
+
+
 /* Article author section (top left corner) */
 .article_author-section {
   display: flex;
@@ -97,6 +99,9 @@ article {
 .daniel_article {
   grid-area: daniel;
   background-color: var(--moderateViolet);
+  background-image: url(./images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: 80% 0%;
 }
 
 .daniel_article .article-content,
