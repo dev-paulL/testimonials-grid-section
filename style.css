@@ -60,9 +60,7 @@ article {
   display: flex;
   align-items: center;
 }
-.article_author-section h3 {
-  font-weight: 600;
-}
+
 .article_author-section img {
   border-radius: 50%/50%;
   max-width: 2rem;
@@ -73,6 +71,12 @@ article {
   margin-left: 1rem;
   line-height: 1.5;
   font-size: 0.6rem;
+}
+
+.author-info p:first-child {
+    font-weight: 600;
+    font-size: .8rem;
+    color: var(--white);
 }
 .author-info p {
   font-weight: 500;
@@ -130,6 +134,9 @@ article {
   grid-area: jeanette;
 }
 
+.jeanette_article .article_author-section p:first-child, .kira_article .article_author-section p:first-child {
+    color: var(--darkGrayishBlue);
+}
 /* Footer */
 footer {
   text-align: center;
